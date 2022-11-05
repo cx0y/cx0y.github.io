@@ -1,11 +1,9 @@
-<p><img src="https://komarev.com/ghpvc/?username=sadhukhanr&label=views&labelColor=33006f&color=33006f&style=for-the-badge" alt="sr" /></p>
-<p align="center"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx-spK2i6cCNI1nwLewMvHwC0zvJPdeh0T_DyKWyXHoLIaUFRxZj5_rZdwBvhcS38LLfTQSpmd5etrK_JnleI7xhcwqlYcbw2YFl1IuU5-nLBktgZrfR22fhfwdgmHz6OKaRX0jKjIA6AEAMk0xowgyDIf9_dUiIYLs3nu1j6M8kShHTTJ1_TWzKmn6Q/s1600/s.png"></p>
+<p><a href="https://en.wikipedia.org/wiki/Linear_algebra"><img src="https://komarev.com/ghpvc/?username=sadhukhanr&label=[eye 👁]&labelColor=ffffff&color=8f8f8f&style=for-the-badge" alt="i'm gone :)" /></a></p>
+<p align="center"><a href="https://en.wikipedia.org/wiki/Stephen_Hawking"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxRZBTuRCBMWdk1T3PQhZntD86MYyViN2XNMcPBmFfxew4p6ux0PgcIywJUDPBvCXsYdoJFX5R_TZR0o7s7zmhr2K-bcf_LHL4FZ62MnuUdh6nAXrhhH4Wf8DZk14mqhJBBu-QeKY-Q3OBwyHCae4MkEp2H9Qtv819hXJzsVbXro5EMCqUFYIpePHsow/s1600/08.png"></a></p>
 
-<p align="center">a minimalist</p>
-<p align="center">a physics (hons) student</p>
-<p align="center">a computer geek</p>
-<p align="center">researching on quantum field theory</p>
-<p align="center">learning quantum computation</p>
-<p align="center">anime otaku and melomaniac</p>
-<p align="center">ask me about anime :)</p>
-
+<p align="center"><a href="https://www.google.com/search?q=what%20do%20you%20mean%20by%20minimalist">Minimalist</a></p>
+<p align="center">Physics <a href="https://en.wikipedia.org/wiki/Undergraduate_education">(UG)</a> Student</p>
+<p align="center">Computer <a href="https://en.wikipedia.org/wiki/Geek">Geek</a></p>
+<p align="center"><a href="https://en.wikipedia.org/wiki/Research">Researching</a> on <a href="https://en.wikipedia.org/wiki/Quantum_field_theory">QFT</a></p>
+<p align="center">Learning <a href="https://en.wikipedia.org/wiki/Quantum_computing">Quantum Computing</a></p>
+<p align="center"><a href="https://en.wikipedia.org/wiki/Anime">Anime</a> <a href="https://en.wikipedia.org/wiki/Otaku">Otaku</a> and <a href="https://en.wiktionary.org/wiki/melomaniac">Melomaniac</a></p>
