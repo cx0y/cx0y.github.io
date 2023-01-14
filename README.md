@@ -1,5 +1,5 @@
-<p><a href="https://en.wikipedia.org/wiki/Linear_algebra"><img src="https://komarev.com/ghpvc/?username=sadhukhanr&label=[eye 👁]&labelColor=ffffff&color=8f8f8f&style=for-the-badge" alt="i'm gone :)" /></a></p>
-<p align="center"><a href="https://en.wikipedia.org/wiki/Stephen_Hawking"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxRZBTuRCBMWdk1T3PQhZntD86MYyViN2XNMcPBmFfxew4p6ux0PgcIywJUDPBvCXsYdoJFX5R_TZR0o7s7zmhr2K-bcf_LHL4FZ62MnuUdh6nAXrhhH4Wf8DZk14mqhJBBu-QeKY-Q3OBwyHCae4MkEp2H9Qtv819hXJzsVbXro5EMCqUFYIpePHsow/s1600/08.png"></a></p>
+<p><a href="https://en.wikipedia.org/"><img src="https://komarev.com/ghpvc/?username=sadhukhanr&label=[eye 👁]&labelColor=ffffff&color=8f8f8f&style=for-the-badge" alt="i'm gone :)" /></a></p>
+<p align="center"><a href="https://github.com/"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj30L_a6L9qzG85n1MOeSQzVzLaCozwAUBi4JpvceW0Mn1l0zoP-023ib5Yw2VqFRft_EVZH0haNgYdJgTwVC0WpHqw9UMGnpQKD2PoKEV8zkQEWTLcKfHzJDGJYP5jZL-DOUPTNdI9xnS5kTNVXfkgU1MLyggpnAQSvvRdkCwtI7MWZDm0kUoWm74xmg/s1600/ps5%20%281%29.png"></a></p>
 
 <p align="center"><a href="https://www.google.com/search?q=what%20do%20you%20mean%20by%20minimalist">Minimalist</a> & <a href="https://en.wikipedia.org/wiki/Visionary">Visionary</a></p>
 <p align="center">Physics <a href="https://en.wikipedia.org/wiki/Undergraduate_education">(UG)</a> Student</p>
