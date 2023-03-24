@@ -1,12 +1,20 @@
 <!--
 <p><a href="https://en.wikipedia.org/"><img src="https://komarev.com/ghpvc/?username=sadhukhanr&label=[eye 👁]&labelColor=ffffff&color=8f8f8f&style=for-the-badge" alt="i'm gone :)" /></a></p>
--->
 <p><a href="https://www.playstation.com/en-in/ps5/"><img src="https://img.shields.io/badge/PS5-lightgrey?style=for-the-badge&logo=playstation&5logoWidth=40" alt="i'm gone :)" /></a></p>
-<p align="center"><a href="https://github.com/"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj30L_a6L9qzG85n1MOeSQzVzLaCozwAUBi4JpvceW0Mn1l0zoP-023ib5Yw2VqFRft_EVZH0haNgYdJgTwVC0WpHqw9UMGnpQKD2PoKEV8zkQEWTLcKfHzJDGJYP5jZL-DOUPTNdI9xnS5kTNVXfkgU1MLyggpnAQSvvRdkCwtI7MWZDm0kUoWm74xmg/s1600/ps5%20%281%29.png"></a></p>
+-->
+<br>
 
-<p align="center"><a href="https://www.google.com/search?q=what%20do%20you%20mean%20by%20minimalist">Minimalist</a> & <a href="https://en.wikipedia.org/wiki/Visionary">Visionary</a></p>
-<p align="center">Physics <a href="https://en.wikipedia.org/wiki/Undergraduate_education">(UG)</a> Student</p>
+<p align="center"><a href="https://github.com/"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisuRDlE9KZqe_HLfE6332bKJD-38r28152cHqzDO0zt-SsgYBRlXiWe3Vv5eAYbvBF3PU8hDXE7j6yt4bq4soJRxnPOOiAcM1mVxbtzG_0_CJGJeZlzjY3RE6dGWl4of_v6hFuR2qPZ7CJOOHDgvAPxoO5W7m269asKC9Jd0YHSzEPRfMaDn_QpwZHeg/s1600/0.png"></a></p>
+
+<p align="center"><a href="https://www.google.com/search?q=what%20do%20you%20mean%20by%20minimalist">Minimalist</a> & <a href="https://psychology.fandom.com/wiki/INTJ">Mastermind (INTJ-A)</a></p>
+<p align="center"><a href="https://en.wikipedia.org/wiki/Physics">Physics</a> <a href="https://en.wikipedia.org/wiki/Undergraduate_education">(UG)</a> Student</p>
 <p align="center">Computer <a href="https://en.wikipedia.org/wiki/Geek">Geek</a></p>
+<p align="center"><a href="https://en.wikipedia.org/wiki/Anime">Anime</a> <a href="https://en.wikipedia.org/wiki/Otaku">Otaku</a> and <a href="https://en.wiktionary.org/wiki/melomaniac">Melomaniac</a></p>
+<!--
 <p align="center"><a href="https://en.wikipedia.org/wiki/Research">Researching</a> on <a href="https://en.wikipedia.org/wiki/Quantum_field_theory">QFT</a></p>
 <p align="center">Learning <a href="https://en.wikipedia.org/wiki/Quantum_computing">Quantum Computing</a></p>
-<p align="center"><a href="https://en.wikipedia.org/wiki/Anime">Anime</a> <a href="https://en.wikipedia.org/wiki/Otaku">Otaku</a> and <a href="https://en.wiktionary.org/wiki/melomaniac">Melomaniac</a></p>
+-->
+<p align="center">I like <a href="https://en.wikipedia.org/wiki/Parallel_computing">parallel computing</a> and <a href="https://en.wikipedia.org/wiki/High-performance_computing">HPC</a></p>
+
+
+
