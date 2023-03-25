@@ -14,7 +14,7 @@
 <p align="center"><a href="https://en.wikipedia.org/wiki/Research">Researching</a> on <a href="https://en.wikipedia.org/wiki/Quantum_field_theory">QFT</a></p>
 <p align="center">Learning <a href="https://en.wikipedia.org/wiki/Quantum_computing">Quantum Computing</a></p>
 -->
-<p align="center">I like <a href="https://en.wikipedia.org/wiki/Parallel_computing">parallel computing</a> & <a href="https://en.wikipedia.org/wiki/High-performance_computing">HPC</a></p>
+<p align="center">I like <a href="https://en.wikipedia.org/wiki/Parallel_computing">Parallel Computing</a> & <a href="https://en.wikipedia.org/wiki/High-performance_computing">HPC</a></p>
 
 
 
