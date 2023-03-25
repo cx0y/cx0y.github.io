@@ -9,12 +9,12 @@
 <p align="center"><a href="https://www.google.com/search?q=what%20do%20you%20mean%20by%20minimalist">Minimalist</a> & <a href="https://psychology.fandom.com/wiki/INTJ">Mastermind (INTJ-A)</a></p>
 <p align="center"><a href="https://en.wikipedia.org/wiki/Physics">Physics</a> <a href="https://en.wikipedia.org/wiki/Undergraduate_education">(UG)</a> Student</p>
 <p align="center">Computer <a href="https://en.wikipedia.org/wiki/Geek">Geek</a></p>
-<p align="center"><a href="https://en.wikipedia.org/wiki/Anime">Anime</a> <a href="https://en.wikipedia.org/wiki/Otaku">Otaku</a> and <a href="https://en.wiktionary.org/wiki/melomaniac">Melomaniac</a></p>
+<p align="center"><a href="https://en.wikipedia.org/wiki/Anime">Anime</a> <a href="https://en.wikipedia.org/wiki/Otaku">Otaku</a> & <a href="https://en.wiktionary.org/wiki/melomaniac">Melomaniac</a></p>
 <!--
 <p align="center"><a href="https://en.wikipedia.org/wiki/Research">Researching</a> on <a href="https://en.wikipedia.org/wiki/Quantum_field_theory">QFT</a></p>
 <p align="center">Learning <a href="https://en.wikipedia.org/wiki/Quantum_computing">Quantum Computing</a></p>
 -->
-<p align="center">I like <a href="https://en.wikipedia.org/wiki/Parallel_computing">parallel computing</a> and <a href="https://en.wikipedia.org/wiki/High-performance_computing">HPC</a></p>
+<p align="center">I like <a href="https://en.wikipedia.org/wiki/Parallel_computing">parallel computing</a> & <a href="https://en.wikipedia.org/wiki/High-performance_computing">HPC</a></p>
 
 
 
