@@ -1,1 +1,1 @@
-Passionate about hands-on machine learning and quantum theory, with a focus on foundational mathematics. Building custom neural networks from scratch and crafting an optimized Linux environment for high-efficiency work. Driven by curiosity, I explore knowledge fluidly, beyond conventional boundaries.
+
