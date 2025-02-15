@@ -6,3 +6,5 @@ plugins:
 title: Rsadhukhan Essays
 description: welcome to my essays?!
 
+exclude:
+  - _layouts
