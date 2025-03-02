@@ -3,8 +3,9 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Rsadhukhan Essays
-description: welcome to my essays?!
+title: rsadhukhan essays
+description: welcome to rsashukhan essays!
 
 exclude:
   - _layouts
+
