@@ -17,9 +17,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     {% include head-custom.html %}
     <style>
-      #ti{
-        cursor: pointer;
-        cursor:auto;
+      .link{
+        direction:none;
+        color:#fff;
       }
     </style>
   </head>
@@ -41,7 +41,7 @@
 
       <section>
         <div id="title">
-          <h1 id="ti">{{ site.title | default: site.github.repository_name }}</h1>
+          <h1 id="ti"><a href="https://cx0y.github.io/" class="link">{{ site.title | default: site.github.repository_name }}</a></h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
           <hr>
           <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
@@ -52,10 +52,6 @@
       </section>
     </div>
     <script>
-      const gg = document.getElementById("ti");
-      ti.addEventListener("click", ()=>{
-        window.location = '/';
-      });
     </script>
   </body>
 </html>
