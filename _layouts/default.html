@@ -16,6 +16,12 @@
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     {% include head-custom.html %}
+    <style>
+      #ti{
+        cursor: pointer;
+        cursor:auto;
+      }
+    </style>
   </head>
   <body>
       <div id="header">
@@ -48,7 +54,7 @@
     <script>
       const gg = document.getElementById("ti");
       ti.addEventListener("click", ()=>{
-        location.reload();
+        window.location = '/';
       });
     </script>
   </body>
