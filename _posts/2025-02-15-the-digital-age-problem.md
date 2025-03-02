@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: deafult
 title: "The Digital Age Problem"
 date: 2025-02-15 10:00:00 +0000
 author: "rsadhukhan"
