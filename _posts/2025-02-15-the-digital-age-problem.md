@@ -1,4 +1,15 @@
 
+---
+layout: post
+title: "The Digital Age Problem"
+date: 2025-02-15 10:00:00 +0000
+author: "rsadhukhan"
+categories: [Jekyll, RSS]
+tags: [github-pages, rss, jekyll]
+excerpt: "Learn how to fix missing RSS feed items on GitHub Pages."
+---
+
+
 # The Digital Age Problem
 
 In this very digital age, we are loaded with information, and too much information leading to our doom, we are not very intentional with our own works, like there is a something always here to take our attention span, and that is our laptop, phone or other digital devices! we barely have time to read physical books, and there is also hype of digital books and kindle like devices… 
