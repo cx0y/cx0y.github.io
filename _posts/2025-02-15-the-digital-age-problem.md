@@ -5,8 +5,6 @@ author: "rsadhukhan"
 ---
 
 
-# The Digital Age Problem
-
 In this very digital age, we are loaded with information, and too much information leading to our doom, we are not very intentional with our own works, like there is a something always here to take our attention span, and that is our laptop, phone or other digital devices! we barely have time to read physical books, and there is also hype of digital books and kindle like devices… 
 
 What is the point of doing this, what is the point of writing this? well we are getting information so quick, and nothing wrong with that?! but out very own thinking is stripped out from the equation, we are making us busy with digital devices, and wasting most valuable time we have! 
