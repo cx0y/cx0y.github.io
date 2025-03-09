@@ -10,3 +10,4 @@ description: welcome to my essays!
 exclude:
   - _layouts
 
+permalink: /:categories/:year/:month/:day/:title.html
